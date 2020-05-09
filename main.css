@@ -116,6 +116,11 @@ hr
     text-align: center;
 }
 
+.fkep li
+{
+    display: inline;
+}
+
 p
 {
    font-family: 'Sintony', sans-serif;
@@ -160,6 +165,10 @@ table tr td
 background: linear-gradient(0deg, rgba(0,0,0,0.2) 0%, rgba(255,255,255,1) 100%);
 }
 
+#contacts li
+{
+    display: inline;
+}
 #contacts img
 {
     width: 2em;
